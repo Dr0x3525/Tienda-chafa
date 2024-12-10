@@ -1,0 +1,18 @@
+Crea un programa que administre el inventario de una tienda utilizando un array.
+Funcionalidades:
+
+    Registrar productos:
+        Usa un array para almacenar los nombres de los productos.
+        Usa otro array para guardar la cantidad de cada producto.
+
+    Mostrar inventario:
+        Recorre los arrays y muestra los productos junto con sus cantidades.
+
+    Actualizar inventario:
+        Busca un producto en el array por su nombre.
+        Actualiza su cantidad (por ejemplo, cuando se realiza una venta o se recibe más stock).
+
+    Eliminar un producto:
+        Elimina el producto de ambos arrays.
+
+        
